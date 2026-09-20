@@ -62,16 +62,4 @@ Through this project, I practiced:
 * String methods
 * The `datetime` module
 
-## 🚀 Future Improvements
-
-I would like to improve Mewmew by adding:
-
-* More conversations and responses
-* Random responses
-* Better understanding of different questions
-* A graphical user interface
-* AI-powered responses
-
----
-
 Made with 🐍 Python and lots of curiosity! 🐱
