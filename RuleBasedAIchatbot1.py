@@ -17,7 +17,7 @@ else :
     print("Good night",name)
 
 print("Welcome here I am your favourite chatbot mewmew ")
-print(" You can ask me anything type hi to start the chat.")
+print(" You can ask me anything type hello to start the chat.")
 print(" type bye to stop the chat")
 
 #responses
