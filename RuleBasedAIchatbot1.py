@@ -27,7 +27,7 @@ responses = {
     "how are you?": "I am good.How is your day going?",
     "I am fine"  : "good to hear that.",
     "what are you?" :"I am hear to chat with you",
-    "what is your name?":"My name is mewmew.What is your name?",
+    "what is your name?":"My name is mewmew.",
     "bye" : "have a good day,bye bye."
 }
 
